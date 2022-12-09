@@ -1,0 +1,1 @@
+export { default } from "file:///C:/xampp8.0.8/htdocs/every_engineer/every_engineer/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
